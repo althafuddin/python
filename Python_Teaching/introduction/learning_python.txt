@@ -1,0 +1,5 @@
+Python you can process the files
+Python you can read the files
+Python you can make classes
+Python you can print
+Python you can dicect the strings
